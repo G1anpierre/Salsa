@@ -1,0 +1,23 @@
+
+h2 {
+    color: whitesmoke;
+}
+p {
+    color: azure;
+}
+
+body {
+    background-image: url('http://source.unsplash.com/kyjvWPOm1nc') ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    text-align: center;
+
+}
+
+
+
+#mainText {
+    padding-top: 25%; 
+}
